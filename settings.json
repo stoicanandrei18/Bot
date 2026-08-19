@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "unAndrei.aternos.me:41076",
+    "ip": "unAndrei.aternos.me",
     "port": 41076,
     "version": "26.1.2",
     "try-creative": false
